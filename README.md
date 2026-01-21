@@ -47,13 +47,6 @@ Trợ lý ảo AI: Tích hợp Chatbot Gemini hỗ trợ tìm kiếm văn bản 
 
 <div align="center">
 
-### Hệ điều hành
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-## 🔧 2. Các công nghệ được sử dụng
-
-<div align="center">
-
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -61,26 +54,17 @@ Trợ lý ảo AI: Tích hợp Chatbot Gemini hỗ trợ tìm kiếm văn bản 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 </div>
+
 ---
 
 🚀 3. Hình ảnh các chức năng
-Giao diện quản lý nhân sự
-<img width="1902" height="931" alt="image" src="https://github.com/MinnKaa/TTDN-16-02-N7/tree/main/setup/anh1" />
+![Giao diện quản lý khách hàng](setup/anh1.png)
+![Giao diện quản lý văn bản](setup/anh2.png)
+![Giao diện chi tiết văn bản](setup/anh3.png)
+![Giao diện thêm khách hàng](setup/anh4.png)
+![Giao diện thêm khách hàng](setup/anh3.png)
+![Giao diện AI hỗ  trợ tìm kiếm](setup/anh4.png)
 
-Giao diện quản lý khách hàng
-<img width="1902" height="931" alt="image" src="https://github.com/MinnKaa/TTDN-16-02-N7/tree/main/setup/anh2" />
-
-Giao diện quản lý văn bản
-<img width="1902" height="931" alt="image" src="https://github.com/MinnKaa/TTDN-16-02-N7/tree/main/setup/anh3" />
-
-Giao diện chi tiết văn bản
-<img width="1902" height="931" alt="image" src="https://github.com/MinnKaa/TTDN-16-02-N7/tree/main/setup/anh4" />
-
-Giao diện thêm khách hàng
-<img width="1902" height="931" alt="image" src="https://github.com/MinnKaa/TTDN-16-02-N7/tree/main/setup/anh5" />
-
-Giao diện AI hỗ  trợ tìm kiếm
-<img width="1902" height="931" alt="image" src="https://github.com/MinnKaa/TTDN-16-02-N7/tree/main/setup/anh6" />
 ---
 ⚙️ 4. Cài đặt
 4.1. Cài đặt môi trường Docker

@@ -10,9 +10,9 @@
 
 <div align="center">
     <p align="center">
-        <img src="docs/logo/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
-        <img src="docs/logo/fitdnu_logo.png" alt="FIT DNU Logo" width="180"/>
-        <img src="docs/logo/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+        <img src="setup/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
+        <img src="setup/fitdnu_logo.png" alt="FIT DNU Logo" width="180"/>
+        <img src="setup/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
     </p>
 
 [![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
@@ -66,17 +66,27 @@ Trợ lý ảo AI: Tích hợp Chatbot Gemini hỗ trợ tìm kiếm văn bản 
 ![Giao diện AI hỗ  trợ tìm kiếm](setup/anh4.png)
 
 ---
-⚙️ 4. Cài đặt
+
+## ⚙️ 4. Cài đặt
+
 4.1. Cài đặt môi trường Docker
-Cài đặt Docker Desktop.
+- Cài đặt Docker Desktop
+- Đảm bảo Docker đã chạy trước khi triển khai hệ thống
+
+---
 
 4.2. Triển khai Module
-Clone project vào thư mục trong Odoo:
 
+Clone project vào thư mục Odoo:
+
+```bash
 cd ~/odoo-fitdnu/
 git clone https://github.com/MinnKaa/TTDN-16-02-N7.git
 
+---
+
 4.3. Cấu hình Database & API
+
 Khởi động hệ thống: docker restart odoo_odoo-base.
 
 Truy cập vào Odoo (thường là localhost:8069).

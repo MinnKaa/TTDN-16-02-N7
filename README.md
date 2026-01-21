@@ -50,7 +50,7 @@ Trợ lý ảo AI: Tích hợp Chatbot Gemini hỗ trợ tìm kiếm văn bản 
 ### Hệ điều hành
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
----
+
 
 ### Công nghệ chính
 ![Odoo](https://img.shields.io/badge/Odoo-ERP-purple?style=for-the-badge&logo=odoo)
@@ -58,7 +58,7 @@ Trợ lý ảo AI: Tích hợp Chatbot Gemini hỗ trợ tìm kiếm văn bản 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
 
----
+
 
 ### Cơ sở dữ liệu
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -67,12 +67,24 @@ Trợ lý ảo AI: Tích hợp Chatbot Gemini hỗ trợ tìm kiếm văn bản 
 
 ---
 
-🚀 3. Hình ảnh các chức năng
+## 🧩 3. Các chức năng chính
+
+### Giao diện quản lý nhân sự
 ![Giao diện quản lý khách hàng](setup/anh1.png)
+
+### Giao diện quản lý khách hàng
 ![Giao diện quản lý văn bản](setup/anh2.png)
+
+### Giao diện quản lý văn bản
 ![Giao diện chi tiết văn bản](setup/anh3.png)
+
+### Giao diện chi tiết văn bản
 ![Giao diện thêm khách hàng](setup/anh4.png)
+
+### Giao diện thêm khách hàng
 ![Giao diện thêm khách hàng](setup/anh3.png)
+
+### Giao diện AI hỗ trợ tìm kiếm
 ![Giao diện AI hỗ  trợ tìm kiếm](setup/anh4.png)
 
 ---

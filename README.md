@@ -85,6 +85,11 @@ Các chức năng chính của hệ thống:
 ### Giao diện AI hỗ trợ tìm kiếm
 ![Giao diện AI hỗ  trợ tìm kiếm](setup/anh6.png)
 
+### Biểu đồ xếp hạng nhân viên
+![Biểu đồ cột](setup/anh8.png)
+
+![Biểu đồ tròn](setup/anh9.png)
+
 ---
 
 ## 📰 4. Poster

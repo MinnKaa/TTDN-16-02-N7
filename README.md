@@ -80,22 +80,29 @@ Các chức năng chính của hệ thống:
 ![Giao diện thêm khách hàng](setup/anh4.png)
 
 ### Giao diện thêm khách hàng
-![Giao diện thêm khách hàng](setup/anh3.png)
+![Giao diện thêm khách hàng](setup/anh5.png)
 
 ### Giao diện AI hỗ trợ tìm kiếm
-![Giao diện AI hỗ  trợ tìm kiếm](setup/anh4.png)
+![Giao diện AI hỗ  trợ tìm kiếm](setup/anh6.png)
 
 ---
 
-## ⚙️ 4. Cài đặt
+## 📰 4. Poster
+<p align="center">
+  <img src="setup/anh7.png" alt="System Architecture" width="800"/>
+</p>
 
-4.1. Cài đặt môi trường Docker
+---
+
+## ⚙️ 5. Cài đặt
+
+5.1. Cài đặt môi trường Docker
 - Cài đặt Docker Desktop
 - Đảm bảo Docker đã chạy trước khi triển khai hệ thống
 
 ---
 
-4.2. Triển khai Module
+5.2. Triển khai Module
 
 Clone project vào thư mục Odoo:
 
@@ -106,7 +113,7 @@ git clone https://github.com/MinnKaa/TTDN-16-02-N7.git
 
 ---
 
-4.3. Cấu hình Database & API
+5.3. Cấu hình Database & API
 
 Khởi động hệ thống: docker restart odoo_odoo-base.
 
@@ -118,7 +125,7 @@ Cấu hình Gemini API Key trong phần cài đặt của trợ lý ảo.
 
 ---
 
-## 5. Thành viên nhóm
+## 6. Thành viên nhóm
 
 1. Vũ Đức Minh
 2. Phùng Xuân Đức
@@ -126,7 +133,7 @@ Cấu hình Gemini API Key trong phần cài đặt của trợ lý ảo.
 
 ---
 
-## Nguồn tham khảo
+## 7. Nguồn tham khảo
 [1] yukiharadev, **TTDN-15-05-N2**, GitHub.  
 https://github.com/yukiharadev/TTDN-15-05-N2 
 

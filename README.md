@@ -67,32 +67,43 @@ Các chức năng chính của hệ thống:
 
 ## 🧩 3. Các chức năng chính
 
-<p align="center">
-
 ### Giao diện quản lý nhân sự
-![Giao diện quản lý khách hàng](setup/anh1.png)
+<p align="center">
+  <img src="setup/anh1.png">
+</p>
 
 ### Giao diện quản lý khách hàng
-![Giao diện quản lý văn bản](setup/anh2.png)
+<p align="center">
+  <img src="setup/anh2.png">
+</p>
 
 ### Giao diện quản lý văn bản
-![Giao diện chi tiết văn bản](setup/anh3.png)
+<p align="center">
+  <img src="setup/anh3.png">
+</p>
 
 ### Giao diện chi tiết văn bản
-![Giao diện thêm khách hàng](setup/anh4.png)
+<p align="center">
+  <img src="setup/anh4.png">
+</p>
 
 ### Giao diện thêm khách hàng
-![Giao diện thêm khách hàng](setup/anh5.png)
+<p align="center">
+  <img src="setup/anh5.png">
+</p>
 
 ### Giao diện AI hỗ trợ tìm kiếm
-![Giao diện AI hỗ  trợ tìm kiếm](setup/anh6.png)
+<p align="center">
+  <img src="setup/anh6.png">
+</p>
 
 ### Biểu đồ xếp hạng nhân viên
-![Biểu đồ cột](setup/anh8.png)
-
-![Biểu đồ tròn](setup/anh9.png)
-
+<p align="center">
+  <img src="setup/anh8.png">
+  <br>
+  <img src="setup/anh9.png">
 </p>
+
 
 ---
 

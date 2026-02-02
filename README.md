@@ -66,7 +66,7 @@ Các chức năng chính của hệ thống:
 ---
 
 ## 🧩 3. Các chức năng chính
-
+<p align="center">
 ### Giao diện quản lý nhân sự
 ![Giao diện quản lý khách hàng](setup/anh1.png)
 
@@ -89,6 +89,8 @@ Các chức năng chính của hệ thống:
 ![Biểu đồ cột](setup/anh8.png)
 
 ![Biểu đồ tròn](setup/anh9.png)
+
+</p>
 
 ---
 
